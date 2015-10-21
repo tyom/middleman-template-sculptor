@@ -1,0 +1,1 @@
+# Middleman Sculptor Project Template
