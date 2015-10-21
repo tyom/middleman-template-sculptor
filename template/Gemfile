@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+# Middleman Gems
+gem 'middleman-sculptor'
+gem 'middleman-deploy', '~> 2.0.0-alpha'
+# gem 'middleman-syntax', '>= 2.0.0'
